@@ -14,7 +14,7 @@
     "demo": "set PORT=8080 && serve docs"
   },
   "keywords": [],
-  "author": "Matei Nicolae",
+  "author": "Bob Monica",
   "license": "ISC",
   "devDependencies": {
     "css-loader": "^6.10.0",
